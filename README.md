@@ -8,7 +8,7 @@ Este repositório contém uma coleção de exercícios desenvolvidos em **TypeSc
 - Gustavo Gabriel Sauro Churras
 - Kendy Nakamura San  
 - Melckson Gustavo Lima  
-- Renato da Mota / Francisco Parra
+- Renato da Motoca / Francisco Parra
 
 ---
 
