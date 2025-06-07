@@ -5,7 +5,7 @@ Este repositório contém uma coleção de exercícios desenvolvidos em **TypeSc
 ## 👨‍🎓 Alunos que contribuíram nesse projeto:
 
 - Vitor Gonçalves de Oliveira (the GOAT)
-- Gustavo Gabriel  
+- Gustavo Gabriel sauro churras
 - Kendy Nakamura San  
 - Melckson Gustavo Lima  
 - Renato da Mota / Francisco Parra
